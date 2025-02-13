@@ -1,5 +1,12 @@
 # The-Tech-Academy-Basic-C-Sharp-Projects
 
+## Polymorphism Assignment
+Create an interface called IQuittable and have it define a void method called Quit().
+
+Have your Employee class from the previous drill inherit that interface and implement the Quit() method in any way you choose.
+
+Use polymorphism to create an object of type IQuittable and call the Quit() method on it. Hint: an object can be of an interface type if it implements that specific interface.
+
 ## Operators Assignment
 Create an Employee class with Id, FirstName and LastName properties. 
 In the Employee class, overload the “==” operator so it checks if two Employee objects are equal by comparing their Id property. Remember that comparison operators must be overloaded in pairs. 
