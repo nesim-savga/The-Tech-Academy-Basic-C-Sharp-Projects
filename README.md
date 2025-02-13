@@ -1,5 +1,8 @@
 # The-Tech-Academy-Basic-C-Sharp-Projects
 
+## EFApp
+Create a basic Entity Framework Code-First console application that creates a basic Student database and adds one student.
+
 ## Polymorphism Assignment
 Create an interface called IQuittable and have it define a void method called Quit().
 
