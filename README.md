@@ -1,4 +1,20 @@
 # The-Tech-Academy-Basic-C-Sharp-Projects
+
+## Operators Assignment
+Create an Employee class with Id, FirstName and LastName properties. 
+In the Employee class, overload the “==” operator so it checks if two Employee objects are equal by comparing their Id property. Remember that comparison operators must be overloaded in pairs. 
+
+In the "Program.cs" file, instantiate two objects of the Employee class and assign values to their properties. Then compare the two Employee objects using the newly overloaded operators and display the results.
+
+## MethodApp
+Create a class. In that class, create a void method that takes two integers as parameters. Have the method do a math operation on the first integer and display the second integer to the screen. 
+
+In the Main() method of the console app, instantiate the class.
+
+Call the method in the class, passing in two numbers. 
+
+Call the method in the class, specifying the parameters by name.
+
 ## BranchingAssignment
 Requirements
 
